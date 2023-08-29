@@ -1,0 +1,58 @@
+{
+  "airport_list": [
+    {
+      "Country": {
+        "country_code": "",
+        "flag_url": "",
+        "name": ""
+      },
+      "Frequency": [
+        {
+          "desc": "",
+          "frequency_mhz": "",
+          "frequency_type": ""
+        }
+      ],
+      "Region": {
+        "local_code": "",
+        "name": "",
+        "region_code": ""
+      },
+      "Runway": [
+        {
+          "closed": true,
+          "hE_latitude": "",
+          "hE_longitude": "",
+          "he_displaced_threshold_ft": "",
+          "he_elevation_ft": "",
+          "he_heading_deg": "",
+          "le_displaced_threshold_ft": "",
+          "le_elevation_ft": "",
+          "le_heading_deg": "",
+          "le_latitude": "",
+          "le_longitude": "",
+          "length_ft": "",
+          "lighted": true,
+          "surface_type": "",
+          "width_ft": ""
+        }
+      ],
+      "airport_name": "",
+      "airport_type": "",
+      "elevation_ft": "",
+      "gps_code": "",
+      "iata_code": "",
+      "latitude": "",
+      "local_code": "",
+      "location": "",
+      "logo_url": "",
+      "longitude": "",
+      "scheduled_service": false,
+      "website": "",
+      "wikipedia": ""
+    }
+  ],
+  "disclaimer": "",
+  "message": "",
+  "status_code": ""
+}
