@@ -18,8 +18,10 @@ import (
 	// once you place this file into your project.
 	// For example,
 	//
-	//    sw "github.com/myname/myrepo/go"
-	//
+	//    sw "github.com/Ghepes/apis/go"
+
+	sw "github.com/Ghepes/apis/go"
+
 	sw "./go"
 )
 
