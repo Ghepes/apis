@@ -1,6 +1,6 @@
 # apis
 
-wromo apis direct save from SwaggerHub - no Docu for apis
+wromo apis direct SwaggerHub - docs for apis html file
 
 
 add:
