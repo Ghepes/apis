@@ -20,9 +20,18 @@ import (
 	//
 	//    sw "github.com/Ghepes/apis/go"
 
+	sw "./go"
+
+	// WARNING!
+	// Change this to a fully-qualified import path
+	// once you place this file into your project.
+	// For example,
+	//
+	//    sw "github.com/Ghepes/apis/go"
+
 	sw "github.com/Ghepes/apis/go"
 
-	sw "./go"
+	_ "github.com/Ghepes/apis/go/docs"
 )
 
 func main() {
